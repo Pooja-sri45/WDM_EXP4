@@ -34,7 +34,9 @@ for group,condition in age_groups.items():
 ```
 
 Output:
+```
 ![image](https://github.com/user-attachments/assets/146da747-f521-4cf8-b887-d3ac58f22297)
+```
 
 
 Visualization:
@@ -63,8 +65,9 @@ plt.show()
 ```
 
 Output:
+```
 ![image](https://github.com/user-attachments/assets/e40a407c-f82a-4a9b-9924-c329ef48cc1f)
-
+```
 
 
 Result:
