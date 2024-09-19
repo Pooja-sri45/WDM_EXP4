@@ -14,6 +14,7 @@
 4) Visualize the result using matplotlib.
 
 Program:
+```
 # Visitor segmentation based on characteristics
 # read the data
 visitor_df=pd.read_csv('/content/clustervisitor (1).csv')
@@ -30,13 +31,14 @@ for group,condition in age_groups.items():
   print(f"Visitors in {group} age group")
   print(visitors_in_group)
   print()
-
+```
 
 Output:
 ![image](https://github.com/user-attachments/assets/146da747-f521-4cf8-b887-d3ac58f22297)
 
 
 Visualization:
+```
 # Create a list to store counts of visitors in each age group
 visitor_counts = []
 
@@ -58,6 +60,7 @@ plt.xlabel('Age Groups')
 plt.ylabel('Number of Visitors')
 plt.title('Visitor Distribution Across Age Groups')
 plt.show()
+```
 
 Output:
 ![image](https://github.com/user-attachments/assets/e40a407c-f82a-4a9b-9924-c329ef48cc1f)
