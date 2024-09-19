@@ -71,4 +71,5 @@ Output:
 
 
 Result:
+
 Thus the cluster and visitor segmentation for navigation patterns was implemented successfully in python.
